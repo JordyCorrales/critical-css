@@ -1,0 +1,26 @@
+{
+  "name": "critical-css",
+  "version": "1.0.0",
+  "description": "programa para obtener el critical-css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordyCorrales/critical-css.git"
+  },
+  "keywords": [
+    "critical",
+    "css"
+  ],
+  "author": "Jordy Corrales <corrales.alexanderjc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordyCorrales/critical-css/issues"
+  },
+  "homepage": "https://github.com/JordyCorrales/critical-css#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
